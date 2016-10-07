@@ -56,14 +56,30 @@
     <Compile Include="Creational\AbstractFactory\Warrior\AbstractWarrior.cs" />
     <Compile Include="Creational\AbstractFactory\Armor\AbstractArmor.cs" />
     <Compile Include="Creational\AbstractFactory\Helmet\AbstractHelmet.cs" />
+    <Compile Include="Creational\AbstractFactory\Warrior\Babarian.cs" />
     <Compile Include="Creational\AbstractFactory\Warrior\IWarrior.cs" />
     <Compile Include="Creational\AbstractFactory\IWarriorFactory.cs" />
+    <Compile Include="Creational\AbstractFactory\Warrior\MedievalKnight.cs" />
+    <Compile Include="Creational\AbstractFactory\Warrior\RomanSoldier.cs" />
+    <Compile Include="Creational\AbstractFactory\Warrior\Samurari.cs" />
     <Compile Include="Creational\AbstractFactory\Weapon\AbstractWeapon.cs" />
     <Compile Include="Creational\AbstractFactory\Weapon\Ax.cs" />
     <Compile Include="Creational\AbstractFactory\Weapon\Claymord.cs" />
     <Compile Include="Creational\AbstractFactory\Weapon\Gladius.cs" />
     <Compile Include="Creational\AbstractFactory\Weapon\IWeapon.cs" />
     <Compile Include="Creational\AbstractFactory\Weapon\Katana.cs" />
+    <Compile Include="Creational\Builder\AbstractHamburgerBuilder.cs" />
+    <Compile Include="Creational\Builder\ChickenHamburgerBuilder.cs" />
+    <Compile Include="Creational\Builder\FishHamburgerBuilder.cs" />
+    <Compile Include="Creational\Builder\Hamburger.cs" />
+    <Compile Include="Creational\Builder\HamburgerChef.cs" />
+    <Compile Include="Creational\Builder\IHamburgerBuilder.cs" />
+    <Compile Include="Creational\Builder\SpicyHamburgerBuilder.cs" />
+    <Compile Include="Creational\Builder\TradicionalHamburguerBuilder.cs" />
+    <Compile Include="Creational\ObjectPool\AbstractObjectPool.cs" />
+    <Compile Include="Creational\ObjectPool\Connection.cs" />
+    <Compile Include="Creational\ObjectPool\ConnectionPool.cs" />
+    <Compile Include="Creational\ObjectPool\IObjectPool.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
