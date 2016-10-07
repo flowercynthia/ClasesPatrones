@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns.Creational.AbstractFactory.Armor
 {
-    class BabarianArmor : AbstractArmor
+    public class BabarianArmor : AbstractArmor
     {
     }
 }
